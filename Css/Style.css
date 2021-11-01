@@ -1322,7 +1322,7 @@ textarea {
     }
 }
 
-@media screen and (max-width:991px) and (min-width:768px){
+@media screen and (max-width:990px) and (min-width:768px){
     .container{
         width: 100%;
     }
@@ -1539,22 +1539,20 @@ textarea {
     
 }
 
-@media screen and (max-width:768px) and (min-width:320px){
+@media screen and (max-width:767px) and (min-width:320px){
     .container{
         width: 100%;
     }
     img{
         max-width: 100%;
     }
- 
     .variations {
         margin-top: 10px;
     }
     .variations_text{
         margin: 0 auto;
     }
-    .variations_text h2{
-        
+    .variations_text h2{ 
         text-align: center;
     }
     .variations_text p{
@@ -1564,7 +1562,6 @@ textarea {
     }
     .variations_block{
         display: block;
-        
     }
     .block_three{
         -webkit-box-orient: vertical;
@@ -1574,7 +1571,6 @@ textarea {
         -webkit-box-align: center;
         -ms-flex-align: center;
         align-items: center;
-        
     }
     .block_three div:nth-child(2){
         margin: 0 14px;
@@ -1611,7 +1607,6 @@ textarea {
     .page2_gallery div:last-child{
         margin-bottom: 0;
     }
-    
     .bookmark {
         margin: 20px 0 20px 0;
     }
@@ -1670,7 +1665,6 @@ textarea {
         width: 100%; 
         -webkit-box-shadow: none; 
         box-shadow: none;
-           
     }
     .page5_date, .page5_Foto{
         -webkit-box-orient: vertical;
@@ -1721,7 +1715,6 @@ textarea {
     }
     .block_post div{
         margin: auto;
-
     }
     .pagination li {
         padding: 3px 10px;
@@ -1730,7 +1723,6 @@ textarea {
     .pagination{
         margin-top: 10px;
     }
-
     .products {
         display: -webkit-box;
         display: -ms-flexbox;
@@ -1744,7 +1736,6 @@ textarea {
     }
     .gallery5{
         margin: 10px;
-
     }
     .page3, .page6 {
         padding: 0 10px;
@@ -1774,12 +1765,10 @@ textarea {
     }
     .tab_text{
         padding: 0 5px 0 0;
-        
     }
     .tab_text div{
         margin: 0 auto;
     }
-    
     .tab_text h3{
         padding: 0 5px;
     }
@@ -1790,7 +1779,6 @@ textarea {
     .video{
         padding-bottom: 0;
     }
-    
     .video_text{
         padding: 0 15px;
     }
@@ -1802,7 +1790,6 @@ textarea {
         width: 100%;
         left: auto;
     }
-
     .page9{
         height: 650px;
     }
@@ -1818,7 +1805,6 @@ textarea {
         -ms-flex-pack: start;
         justify-content: flex-start;
         width: 100%;
-        
     }
     .page9_search, page8_contact{
         border-right: none;
@@ -1840,7 +1826,7 @@ textarea {
     }
     .fa-twitter{
         font-size: 25px;
-}
+    }
     .page6_list {
         margin-left: 0;
     }
@@ -1887,7 +1873,6 @@ textarea {
     }
     main{
         padding-bottom: 0;
-        
     }
 
 }
